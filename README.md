@@ -18,7 +18,7 @@ From Official Zythe Project Website only, be ware of fake zythe project website.
 * Request for Personalize Launcher Skin (50usd)
 
 ## Free Version Limitations
-* Maximum 999 tota update assets count only
+* Maximum 999 total update assets count
 * Maximum 50mb total update file size limit
 * Default Launcher Skin Only
 
