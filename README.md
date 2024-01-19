@@ -1,5 +1,8 @@
 # Zythe MuLauncher (Free Version)
 A Professional **MuLauncher** for Private Servers of MuOnline PC
+## Get Full Version
+From Official Zythe Project Website only, be ware of fake zythe project website.<br />
+[https://zythe.pro/store/product/mulauncher](https://zythe.pro/store/product/mulauncher) 
 
 ## Features
 * Simple, Fast and Lightweight
