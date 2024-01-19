@@ -24,7 +24,7 @@ From Official Zythe Project Website only, be ware of fake zythe project website.
 
 ## Installation (1/2) ~ Server
 * Open and Modify the `"UpdateServer/appsettings.json"`
-    - `Server.Urls` : The Urls that your **UpdateServer** is listening. See [How-to-setup-IIS-Reverse-Proxy](https://github.com/iamzythe/Zythe-MuLauncher-FreeVersion/blob/main/README.md#how-to-setup-iis-reverse-proxy) if you want to use **IIS** as reverse proxy (optional)
+    - `Server.Urls` : The Urls that your **UpdateServer** is listening. See [How-to-setup-IIS-Reverse-Proxy](#how-to-setup-iis-reverse-proxy) if you want to use **IIS** as reverse proxy (optional)
     - `Server.Data` : The path to the "SyncData" folder that contains Launcher look and feel assets
     - `Assets.Path` : Full path of you full client or update folder, e.g. `"D:/MuOnline/Upldate/Client"`
     - `Assets.Protected` : Protected files, protect whole folder must end with `"/"` e.g. `"Data/"Interface/`
