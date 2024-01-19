@@ -12,10 +12,15 @@ From Official Zythe Project Website only, be ware of fake zythe project website.
 * Play While Downloading
 * One-Click Update-Server (Kestrel)
 * File Change watcher on Update Server (Full Version)
+* Includes 3 Starter Skins 
+
+## Exclusive Launcher Skin
+* Request for Personalize Launcher Skin (50usd)
 
 ## Free Version Limitations
 * Maximum 999 tota update assets count only
-* Maximum 99MB total update file size limit
+* Maximum 50mb total update file size limit
+* Default Launcher Skin Only
 
 ## Pre-Requisite 
 * Windows Server 2012+ x64 (Server Side)
